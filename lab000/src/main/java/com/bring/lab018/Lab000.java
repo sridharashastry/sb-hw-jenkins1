@@ -12,6 +12,6 @@ public class Lab000 {
 
         System.out.println("Sending greetings");
 
-        return "Hello World. Sambar Vada. Pista Singh.\n"
+        return "Hello World. Sambar Vada. Pista Singh.\n";
     }
 }
